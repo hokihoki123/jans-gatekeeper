@@ -1,0 +1,9 @@
+{
+  "name": "jans-agentgames-gatekeeper",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Proof Gatekeeper agent for zkVerify Agent Games (own implementation).",
+  "type": "commonjs",
+  "engines": { "node": ">=18" },
+  "dependencies": { "snarkjs": "^0.7.6" }
+}
